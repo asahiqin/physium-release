@@ -2,7 +2,12 @@
   "item": {
     "name": "Physium",
     "description": "元素周期表与常用物理常数表",
-    "preview": ["cover.png", "preview.001.png", "preview.002.png"],
+    "preview": [
+      "cover.png",
+      "preview.001.png",
+      "preview.002.png",
+      "preview.003.png"
+    ],
     "icon": "logo.png",
     "source_url": "https://github.com/asahiqin/physium-aiot",
     "author": [
@@ -15,11 +20,11 @@
   "downloads": {
     "n66": {
       "version": "v0.5.0-alpha",
-      "file_name": "band9.io.github.asahiqin.physium.release.v0.5.0-alpha.rpk"
+      "file_name": "band9.io.github.asahiqin.physium.release.v0.5.1-alpha.rpk"
     },
     "n67": {
       "version": "v0.5.0-alpha",
-      "file_name": "band9.io.github.asahiqin.physium.release.v0.5.0-alpha.rpk"
+      "file_name": "band9.io.github.asahiqin.physium.release.v0.5.1-alpha.rpk"
     }
   }
 }
